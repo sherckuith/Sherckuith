@@ -44,7 +44,7 @@ If you share my enthusiasm for innovation and technology-driven solutions that r
 ## 📫 **Contact Me**  
 - **LinkedIn:** [Ángel David Yaguana Hernández](https://www.linkedin.com/in/angeldavidyaguanahernandez/)  
 - **Email:** [sherckuith@gmail.com, angel.yaguana@cu.uscg.edu.ec, ceo@ardasysmic.com](#)  
-- **Portfolio:** [[https://github.com/sherckuith](#)
+- **Portfolio:** [https://github.com/sherckuith](#)
 
 ---
 
