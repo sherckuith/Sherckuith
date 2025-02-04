@@ -1,53 +1,94 @@
-## Hi there 👋
 
-# 🌟 About Me
 
-Hi! I'm **Ángel**, an engineer passionate about technology, innovation, and sustainable development. My experience spans full-stack software, DevOps, electronics, and a deep love for open source. I enjoy exploring new frontiers in hardware and software that positively impact society while respecting the environment.
+👋 Welcome to My GitHub Profile
 
----
+🌟 About Me
 
-## 🚀 What I Do
+Hello! I'm Ángel Yaguana, Dr. h.c., an experienced Software Engineer specializing in Data Science, Full Stack Development, and Embedded Systems. Passionate about technology, data analytics, artificial intelligence, and hardware-software integration, I focus on transforming complex data into actionable insights and developing cutting-edge technological solutions.
 
-### 🔧 **Open Source and Open Hardware Projects**  
-- I design innovative solutions like scientific equipment, embedded systems, and cutting-edge devices.
+I have extensive expertise in signal processing, advanced statistics, algebra, and applied mathematics for data analysis, forecasting, and predictive modeling. My work includes designing electronic devices based on ARM microcontrollers from STM Electronics and Broadcom, along with embedded systems, IoT applications, and Linux-based solutions (Debian, Kali, and more).
 
-### 🤝 **Collaboration on Multidisciplinary Projects**  
-- I work as part of a team to integrate advanced technologies like IoT, artificial intelligence, and robotics.
+Additionally, as a researcher at CEMSIS, I have led numerous studies analyzing seismic data and environmental vibrations across Ecuador and Peru. My work involves determining soil periods and response spectra, providing valuable insights into structural safety and geophysical research.
 
-### ⚙️ **DevOps and Automation**  
-- I build robust and efficient infrastructures, designing automated processes to optimize development and delivery of technological solutions.
+🚀 What I Do
 
-### 📚 **Research and Development**  
-- I'm constantly learning and researching new technologies, applying them in real-world projects to deliver cutting-edge solutions.
+🔧 Open Source and Open Hardware Projects
 
----
 
-## 🌍 What Inspires Me
 
-### 💡 **Technology as a Tool for a Better Future**  
-- I firmly believe in the power of innovation to solve complex problems and create a more equitable and sustainable world.
+Design and development of scientific equipment, embedded systems, and IoT devices.
 
-### 🌱 **Respect for the Ecosystem and Nature**  
-- I integrate sustainability and environmental responsibility principles into my projects.
+Specialization in ARM microcontroller-based solutions.
 
-### 🌟 **Collaboration and Continuous Learning**  
-- I love working in communities, learning from others, sharing knowledge, and building solutions with meaningful impact.
+📊 Data Science and Predictive Analytics
 
----
 
-## 🤝 Why Collaborate With Me?
 
-If you share my enthusiasm for innovation and technology-driven solutions that really matter, I'd love to hear your ideas and work with you! I'm open to contributing and receiving feedback on transformative projects, always respecting open-source principles.
+Advanced expertise in machine learning, deep learning, and statistical modeling.
 
----
+Skilled in Python libraries like Pandas, PySpark, NumPy, Matplotlib, and TensorFlow.
 
-## 📫 **Contact Me**  
-- **LinkedIn:** [Ángel David Yaguana Hernández](https://www.linkedin.com/in/angeldavidyaguanahernandez/)  
-- **Email:** [sherckuith@gmail.com, angel.yaguana@cu.uscg.edu.ec, ceo@ardasysmic.com](#)  
-- **Portfolio:** [https://github.com/sherckuith](#)
+🌐 Full Stack Development
 
----
 
-Together, we can create a positive impact on the world through technology! 🚀
 
-> Please note: While my spoken English is not fluent, I have a solid command of technical English and am comfortable working in technical environments.
+Development of web and mobile applications using Python, Django, FastAPI, Flask, and JavaScript frameworks.
+
+Integration of APIs and cloud-based services.
+
+📡 Telecommunications and Networking
+
+
+
+Expertise in network topology design, data communication protocols, and cybersecurity.
+
+Certified in Cisco networking technologies.
+
+📡 Seismic and Environmental Data Analysis
+
+
+
+Processing of seismic signals and environmental vibration data using Nakamura testing methods.
+
+Experience with software tools like MotusWave, SeiscomPro, Seismosignal, GeoTracker40, Geopsy, Seiscomp3, and MATLAB’s Gismo.
+
+🛠 Technical Skills
+
+Seismic Data Analysis – Processing seismic signals and environmental vibrations, Nakamura testing, and response spectrum generation.
+
+Advanced Mathematics – Expertise in statistical modeling, algebra, calculus, and predictive analysis.
+
+Software & Tools – Proficient in Python (Pandas, PySpark, NumPy, Obspy), R, VSCode, MATLAB, Seisan, QGIS, and Surfer.
+
+Embedded Systems – Development using ARM microcontrollers, IoT solutions, and real-time Linux applications.
+
+DevOps & Cloud – Experience with Docker, Kubernetes, CI/CD pipelines, and cloud computing.
+
+Cybersecurity & Networking – Knowledge in network architecture, Cisco systems, penetration testing, and secure data transmission.
+
+📜 Professional Experience (CV)
+
+Founder & CEO - Advanced Research Data Analytic Systems Microcontrollers
+
+Leading research and development of cutting-edge data analysis systems.
+
+Managing IoT, embedded systems, and machine learning projects.
+
+Freelance Consultant | Data Engineer
+
+Providing consultancy in predictive analytics, data processing, and algorithm optimization.
+
+Developing high-performance computing solutions for scientific research.
+
+CEMSIS Researcher
+
+Conducted seismic and vibration studies to assess structural integrity.
+
+Developed custom analytical tools for processing seismic data.
+
+📞 Contact Information
+
+Ing. Ángel Yaguana, Dr. h.c.CEO - Advanced Research Data Analytic Systems MicrocontrollersFreelance Consultant | Data Engineer | Expert in Predictive Analytics, Big Data, and Advanced Mathematical Methods
+
+📱 Mobile: +593 9891 84822 | +593 9623 3753✉️ Email: sherckuith@gmail.com🔗 LinkedIn: linkedin.com/in/angeldavidyaguanahernandez💻 GitHub: github.com/sherckuith
+
