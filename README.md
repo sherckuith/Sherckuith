@@ -90,5 +90,12 @@ Developed custom analytical tools for processing seismic data.
 
 Ing. Ángel Yaguana, Dr. h.c.CEO - Advanced Research Data Analytic Systems MicrocontrollersFreelance Consultant | Data Engineer | Expert in Predictive Analytics, Big Data, and Advanced Mathematical Methods
 
-📱 Mobile: +593 9891 84822 | +593 9623 3753✉️ Email: sherckuith@gmail.com🔗 LinkedIn: linkedin.com/in/angeldavidyaguanahernandez💻 GitHub: github.com/sherckuith
+📱 Mobile: +593 9891 84822 | +593 9623 3753✉️ 
+Email: sherckuith@gmail.com🔗 
+LinkedIn: linkedin.com/in/angeldavidyaguanahernandez
+GitHub: github.com/sherckuith
+Matlab: https://la.mathworks.com/matlabcentral/profile/authors/8387645
+X: https://x.com/Sherckuith
+ARM mbed: https://os.mbed.com/users/sherckuith/
+Gitlab: https://gitlab.com/sherckuith
 
